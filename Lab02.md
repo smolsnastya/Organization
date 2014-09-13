@@ -1,8 +1,8 @@
 * Variant 3 Tseitlin
 
-* Variant 4 Hotynyuk
+* Variant 4 Hotynyuk Kostyukov
 
-* Variant 5
+* Variant 5 
 
 * Variant 6 Grinchenko
 
