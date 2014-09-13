@@ -1,6 +1,6 @@
 * Variant 3 Tseitlin
 
-* Variant 4
+* Variant 4 Hotynyuk
 
 * Variant 5
 
