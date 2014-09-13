@@ -2,7 +2,7 @@
 *Variant 4
 *Variant 5
 *Variant 6 Grinchenko
-*Variant 7
+*Variant 7 Leonchik
 *Variant 8
 *Variant 9
 *Variant 10
